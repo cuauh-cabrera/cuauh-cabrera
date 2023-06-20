@@ -1,3 +1,8 @@
+<h1 align = "center">Hello World!:wave: I'm Cuau<br><br>I am a Software Developer :technologist: </h1> 
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently coursing the Microverse Full-Stack Development Program<br>👯 I’m open to collaborations and new opportunities. <br>🌱 I’m currently learning UX/UI, JavaScript, React, Ruby, and RoR. <br>⚡ I am passionate about nature and tech.
 
