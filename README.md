@@ -1,4 +1,4 @@
-<h1 align = "center">Hello World!:wave: I'm Cuau<br><br>I am a Software Developer :technologist: </h1> 
+<h1 align = "center">Hello World!&#128075 I'm Cuau<br><br>I am a Software Developer :technologist: </h1> 
 
 
 
