@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m a self-taught Web Developer<br>👯 I’m open to collaborations and new opportunities. <br>⚡ I’m currently learning UX Design, CSS, JavaScript, React, Ruby, and RoR. <br>🌱 I am passionate about nature and tech.
+🔭 I’m a self-taught Web Developer<br>👯 I’m open to collaborations and new opportunities. <br>⚡ I’m currently learning UX Design, CSS, JavaScript, React. <br>🌱 I am passionate about nature and tech.
 
 
 
