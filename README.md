@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m a self-taught Software Developer<br>👯 I’m open to collaborations and new opportunities. <br>⚡ I’m currently on my learning journey to become Fullstack Dev<br>🌱 I am passionate about nature and tech.
+🔭 I’m a self-taught Software Developer<br>👯 I’m open to collaborations and new opportunities. <br>⚡ I’m currently learning to become a Software Developer<br>🌱 I am passionate about nature and tech.
 
 
 
